@@ -1,0 +1,41 @@
+# Synthetic Data
+
+Synthetic data is information that is artificially generated. This type of data is increasing in popularity.
+- Synthetic data is computer generated and derives from existing data sets or from algorithms and models to replicate the properties and characteristics of real world data.
+
+## Why do we need it?
+
+The real data is either:
+- Hard to come by;
+- Sensitive confidential information that we can't readily get acces to.
+
+Examples:
+- Finance: financial records;
+- Medical: medical histories.
+
+Advantages:
+- Cheap;
+- Easy to produce;
+- Perfectly labeled data;
+- Avoid real world bias.
+So: domain-specific, well labeled, high volume data at a reasonable cost.
+
+Challenges:
+- It can't replicate unanticipated events that may occur in real life
+
+AI and ML starve for data and a model can be trained on plentiful volumes of well labeled sythetic data. By 2025, 70% less real data will be feed to the AI pipeline.
+
+An example of use of it is that autonomous vehicles can test drive scenarios on road layouts that don't actually exist.
+
+## Generating synthetic data
+
+In a nutshell:
+- Define the type of data you require;
+- Identify the data sources needed;
+- Generate the data according to your specifications;
+
+The simplest approach is to use some existing datasets an the manipulate (add some noise, transform data, etc)that to create new examples
+
+## Sources
+
+[What is Synthetic Data? No, It's Not "Fake" Data](https://www.youtube.com/watch?v=HIusawrGBN4)
